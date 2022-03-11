@@ -1,0 +1,31 @@
+<header>            //Tag para cabeçalho
+	<nav>       //Tag para navegação
+		
+	</nav> 	
+
+</header>
+
+
+No Css style 
+a:hover //quer dizer que o link não vai mudar de cor quando o mouse passar em cima
+
+a, a:hover{
+    text-decoration: none; //sem decoração.. nesse caso sublinhado
+    color: unset;
+}
+
+Obs:{ O bootstrap sobrecreve alguns itens 
+    {No CSS class seleciona com um '.' antes ex: .container
+    {Um id="dsmovie" no CSS chama com # ex: #dsmovie
+
+REFERÊNCIAS DE HTML e CSS:
+
+https://developer.mozilla.org/pt-BR/docs/Web/HTML
+
+https://developer.mozilla.org/pt-BR/docs/Web/CSS
+
+https://www.w3schools.com/html/
+
+https://www.w3schools.com/css/
+
+https://css-tricks.com/snippets/css/a-guide-to-flexbox/
